@@ -1,0 +1,3 @@
+package gosdk
+
+type Client {}
