@@ -1,4 +1,4 @@
-package gosdk
+package dev
 
 type Client struct {
 	FieldDev string
